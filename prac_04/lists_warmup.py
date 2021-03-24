@@ -10,7 +10,7 @@ numbers[3:4]
 "3" in numbers
 numbers + [6, 5, 3]
 
-numbers[0] = 'ten')
+numbers[0] = 'ten'
 
 numbers[-1] = 1
 
