@@ -31,6 +31,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\prac_04\list_comprehensions.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\prac_04\list_exercises.py">
           <value>
             <Attribute>
