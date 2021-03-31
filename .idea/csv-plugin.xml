@@ -80,6 +80,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\prac_05\emails.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\prac_05\hex_colours.py">
           <value>
             <Attribute>
