@@ -94,6 +94,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\prac_05\word_occurences.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
