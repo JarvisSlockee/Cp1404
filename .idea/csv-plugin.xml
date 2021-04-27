@@ -87,6 +87,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\prac_07\convert_m_to_km_solution.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\prac_07\convert_miles_km.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\prac_07\squaring.py">
           <value>
             <Attribute>
